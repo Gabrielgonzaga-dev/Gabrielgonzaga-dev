@@ -50,7 +50,7 @@ Atualmente trabalho como Desenvolvedor Full Stack, com foco em aplicações <b>J
 </a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielgonzaga-dev&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielgonzaga-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
 </div>
 
