@@ -17,13 +17,7 @@ Atualmente trabalho como Desenvolvedor Full Stack, com foco em aplicações <b>J
 
 </ul>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielgonzaga-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
-</div>
-
----
 
 ## 🚀 Tecnologias
 
@@ -54,7 +48,10 @@ Atualmente trabalho como Desenvolvedor Full Stack, com foco em aplicações <b>J
 <a href="https://www.linkedin.com/in/gabriel-gonzaga-dev/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
 </a>
-
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielgonzaga-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+</div>
 ---
 
 <div align="center">
